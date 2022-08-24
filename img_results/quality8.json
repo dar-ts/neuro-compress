@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/dariats/Downloads/darknet/coco/images2014_compressed/quality8.png", 
+ "objects": [ 
+  {"class_id":62, "name":"tvmonitor", "relative_coordinates":{"center_x":0.686733, "center_y":0.732183, "width":0.219260, "height":0.206977}, "confidence":0.488716}
+ ] 
+}
+]

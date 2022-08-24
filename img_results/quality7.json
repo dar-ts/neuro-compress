@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/dariats/Downloads/darknet/coco/images2014_compressed/quality7.png", 
+ "objects": [ 
+  {"class_id":68, "name":"microwave", "relative_coordinates":{"center_x":0.682718, "center_y":0.731820, "width":0.215770, "height":0.206191}, "confidence":0.284487}, 
+  {"class_id":62, "name":"tvmonitor", "relative_coordinates":{"center_x":0.686863, "center_y":0.732361, "width":0.221812, "height":0.210932}, "confidence":0.530768}
+ ] 
+}
+]

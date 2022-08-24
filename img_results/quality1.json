@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/dariats/Downloads/darknet/coco/images2014_compressed/quality1.png", 
+ "objects": [ 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.714411, "center_y":0.587125, "width":0.539534, "height":0.828891}, "confidence":0.534132}
+ ] 
+}
+]

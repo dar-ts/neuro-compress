@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/dariats/Downloads/darknet/coco/images/train2014/COCO_train2014_000000000036.jpg", 
+ "objects": [ 
+  {"class_id":25, "name":"umbrella", "relative_coordinates":{"center_x":0.485174, "center_y":0.443891, "width":1.018118, "height":0.743375}, "confidence":0.975539}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.671399, "center_y":0.616939, "width":0.522451, "height":0.767523}, "confidence":0.989640}
+ ] 
+}
+]

@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/dariats/Downloads/darknet/coco/images/train2014/COCO_train2014_000000000030.jpg", 
+ "objects": [ 
+  {"class_id":75, "name":"vase", "relative_coordinates":{"center_x":0.505464, "center_y":0.594701, "width":0.264409, "height":0.436457}, "confidence":0.993176}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.514298, "center_y":0.446757, "width":0.376215, "height":0.750780}, "confidence":0.283247}
+ ] 
+}
+]

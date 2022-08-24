@@ -1,0 +1,12 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/dariats/Downloads/darknet/coco/images2014_compressed/quality6.png", 
+ "objects": [ 
+  {"class_id":54, "name":"donut", "relative_coordinates":{"center_x":0.529012, "center_y":0.528684, "width":0.155665, "height":0.184123}, "confidence":0.982974}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.334717, "center_y":0.513824, "width":0.543734, "height":1.008127}, "confidence":0.944107}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.719555, "center_y":0.565332, "width":0.458670, "height":0.863543}, "confidence":0.938853}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.162357, "center_y":0.143722, "width":0.065856, "height":0.182184}, "confidence":0.258149}
+ ] 
+}
+]
