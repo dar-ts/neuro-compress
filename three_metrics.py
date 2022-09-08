@@ -343,7 +343,7 @@ model_mb.eval()
 #path to file with image adresses    
 f = open('/home/dariats/Downloads/darknet/coco/in_process.txt', 'r')
 for line in f:
-    file = f'/home/dariats/Downloads/darknet/img_results/val_results/{line[-30:-5]}.json'
+    file = f'/home/dariats/Downloads/darknet_new/img_results/val_results/{line[-30:-5]}.json'
     adr = line[:-1]
     res_data = compute(adr, model_dl, model_y, model_mb)
     with open(file, 'w') as outfile:
